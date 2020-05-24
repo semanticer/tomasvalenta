@@ -24,11 +24,11 @@ plainwhite:
     twitter: Semantic_Error
     github: semanticer
     linkedIn: in/tomasvalenta/ # format: locale/username
-#  navigation:
-#    - title: My Work
-#      url: "/my-work"
-#    - title: Resume
-#      url: "/resume"
+    instagram: remote_tomas
+    
+  navigation:
+    - title: About Me
+      url: "/about-me"
     
 # Exclude from processing.
 # The following items will not be processed, by default.
