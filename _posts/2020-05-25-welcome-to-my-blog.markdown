@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my awesome blog"
-date:   2020-05-25 00:20:45 +0200
+date:   2020-05-25 01:00:45 +0200
 categories: announcements
 ---
 Hi, this is my first blog post and it's entirely possible it will be my last as I’m not sure yet if there is anything interesting I have to say. 
