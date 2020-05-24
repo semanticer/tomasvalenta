@@ -23,7 +23,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
 
   social_links:
-    twitter: @Semantic_Error
+    twitter: Semantic_Error
     github: semanticer
     linkedIn: in/tomasvalenta/ # format: locale/username
 
@@ -35,8 +35,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "/tomasvalenta" # the subpath of your site, e.g. /blog
 url: "https://semanticer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 remote_theme: thelehhman/plainwhite-jekyll
