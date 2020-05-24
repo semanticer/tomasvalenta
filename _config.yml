@@ -17,6 +17,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+plainwhite:
+  name: Tomáš Valenta
+  tagline: Android Developer, Music Producer
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: @Semantic_Error
+    github: semanticer
+    linkedIn: in/tomasvalenta/ # format: locale/username
 
 title: Tomáš Valenta
 email: semanticer@gmail.com
