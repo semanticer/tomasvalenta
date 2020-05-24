@@ -39,16 +39,16 @@ plainwhite:
     Music Producer
   date_format: "%b %-d, %Y"
   
-  navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
 
   social_links:
     twitter: Semantic_Error
     github: semanticer
     linkedIn: in/tomasvalenta/ # format: locale/username
+#  navigation:
+#    - title: My Work
+#      url: "/my-work"
+#    - title: Resume
+#      url: "/resume"
     
 # Exclude from processing.
 # The following items will not be processed, by default.
