@@ -13,3 +13,4 @@ Some of the topic I might be covering:
 - Meditation and other contemplative practices
 - Mental health
 - Mind-altering substances
+- My lovely fat cat 🐈
