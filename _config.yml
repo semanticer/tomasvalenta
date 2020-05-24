@@ -34,10 +34,20 @@ plugins:
 
 plainwhite:
   name: Tomáš Valenta
-  tagline: Android Developer, Music Producer
+  tagline: |
+    Android Developer
+
+    Music Producer
+
+    Confused Meditation Guru
   date_format: "%b %-d, %Y"
-  dark_mode: true
   
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
+
   social_links:
     twitter: Semantic_Error
     github: semanticer
